@@ -3,6 +3,8 @@ Takim olarak, Kaggle'daki meshur projelerden birisi olan 'House Prices' veri set
 
 Bu proje, detaylı bir Keşifsel Veri Analizi (EDA) gerçekleştirerek başlayacak ve ardından veri ön işleme adımlarını tamamlayarak veri setimizi makine öğrenmesi modellemesi için hazırlayacak bir takım projesidir.
 
+Projeyle ilgili daha detayli bilgi icin Kaggle sayfasina linkten ulasabilirsiniz. https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques 
+
 ## Veri Seti
 Bu projede kullanacağımız veri seti, satilmis olan gayrimenkullerin çeşitli özelliklerini ve fiyatlarını içermektedir. Veri seti, ev fiyatlarını tahmin etmeye yönelik bir makine öğrenmesi modeli oluşturmamızı amaçlamaktadır.
 
