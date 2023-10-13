@@ -9,12 +9,12 @@ Projeyle ilgili daha detayli bilgi icin Kaggle sayfasina linkten ulasabilirsiniz
 Bu projede kullanacağımız veri seti, satilmis olan gayrimenkullerin çeşitli özelliklerini ve fiyatlarını içermektedir. Veri seti, ev fiyatlarını tahmin etmeye yönelik bir makine öğrenmesi modeli oluşturmamızı amaçlamaktadır.
 
 ## Proje Ekibi
-Proje ekibi, gorev ve sorumluluklar daha sonra detayli olarak belirlenecektir.
-TEAM-1 : Missing Values
-TEAM-2 : Outliers
-TEAM-3 : Statistical Analysis
-TEAM-4 : Feature Engineering
-TEAM-5 : Encoding, Normalizing, Standardizing
+Proje ekibi, gorev ve sorumluluklar daha sonra detayli olarak belirlenecektir.  
+TEAM-1 : Missing Values    
+TEAM-2 : Outliers  
+TEAM-3 : Statistical Analysis  
+TEAM-4 : Feature Engineering  
+TEAM-5 : Encoding, Normalizing, Standardizing  
 
 ## Proje Süreci
 
