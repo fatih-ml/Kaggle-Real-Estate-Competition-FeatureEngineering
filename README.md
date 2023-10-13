@@ -10,6 +10,11 @@ Bu projede kullanacağımız veri seti, satilmis olan gayrimenkullerin çeşitli
 
 ## Proje Ekibi
 Proje ekibi, gorev ve sorumluluklar daha sonra detayli olarak belirlenecektir.
+TEAM-1 : Missing Values
+TEAM-2 : Outliers
+TEAM-3 : Statistical Analysis
+TEAM-4 : Feature Engineering
+TEAM-5 : Encoding, Normalizing, Standardizing
 
 ## Proje Süreci
 
