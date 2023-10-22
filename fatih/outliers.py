@@ -147,3 +147,5 @@ class FatihOutliers:
 
         # Show the plot
         plt.show()
+        
+#
